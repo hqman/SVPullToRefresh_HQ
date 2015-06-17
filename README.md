@@ -1,4 +1,4 @@
 SVPullToRefresh 自定义  汽包动画
-![loading.gif](http://upload-images.jianshu.io/upload_images/16632-ba39e932e38e20d7.gif)
+![loading.gif](https://coding.net/u/hqman/p/SVPullToRefresh_HQ/git/blob/master/laoding.gif)
 
  
